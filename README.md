@@ -1,6 +1,6 @@
 # 💳 Credit Card Customer and Financial Analysis Project
 
-This project analyzes customer behavior, transaction patterns, and revenue generation using credit card usage data. The data is processed using SQL and Python, and visualized through Power BI dashboards for financial and customer insights.
+This project analyzes customer behavior, transaction patterns, and revenue generation using credit card usage data. The data is visualized through Power BI dashboards for financial and customer insights.
 
 ---
 
