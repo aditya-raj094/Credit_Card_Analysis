@@ -18,6 +18,9 @@ This project analyzes customer behavior, transaction patterns, and revenue gener
 
 ### 📘 Financial Report (Dashboard 1)
 
+📄 [View Dashboard 1 (Financial Report)](dashboards/Dashboard_1.pdf)  
+
+
 - **Quarter-wise Revenue & Transactions**
 - **Revenue by:**
   - Expenditure Type (e.g., bills, fuel, food)
@@ -30,6 +33,8 @@ This project analyzes customer behavior, transaction patterns, and revenue gener
   - 🔁 Total Transactions: `667K`
 
 ### 📗 Customer Report (Dashboard 2)
+
+📄 [View Dashboard 2 (Customer Report)](dashboards/Dashboard_2.pdf)
 
 - **Customer Segmentation:**
   - By gender, income group, education level, and marital status
